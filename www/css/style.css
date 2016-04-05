@@ -5,7 +5,7 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #2196F3 !important}
+.default_color{background-color: #455A64 !important}
 
 .default_color_text{color: #2196F3 !important}
 
@@ -263,3 +263,10 @@ nav a.button-collapse {
 footer.page-footer {
     margin-top: 0px !important;
 }
+
+.brand-logo{letter-spacing: 3px !important;}
+
+.bg{ background-image: url('../img/background.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: none;}

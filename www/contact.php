@@ -2,7 +2,7 @@
 
 if(isset($_POST['email'])) {
 
-    $email_to = "joash.pereira@gmail.com";
+    $email_to = "sergio.aaguilera@gmail.com";
  
     $email_subject = "Website Contact";
 
@@ -85,7 +85,8 @@ if(isset($_POST['email'])) {
  
 Thank you for contacting me. Will be in touch with you very soon.
  
- 
+ <meta http-equiv="refresh" content="0; url=http://overcode.com.mx" />
+
  
 <?php
  
